@@ -1,6 +1,6 @@
 body {
-    background-color: #181a1B;
-    color: #898d89;
+    background-color: #000000;
+    color: #ffffff91;
     margin-top: 50px;
     text-align: center;
   }
@@ -26,3 +26,4 @@ body {
   #reset-button {
     margin-left: 24px;
   }
+
