@@ -27,3 +27,18 @@ body {
     margin-left: 24px;
   }
 
+  .high {
+    color: #e9afaf
+  }
+
+  .low {
+    color: #4d4576
+  }
+
+  .winner {
+    color: #343
+  }
+
+  .error {
+    color: #d43737
+  }
