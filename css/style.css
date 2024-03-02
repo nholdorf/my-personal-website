@@ -9,6 +9,14 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+h1 {
+  font-family "Valera Round";
+  font-weight: bolder;
+  text-decoration: underline;
+  background-color: #736262;
+  padding: 1px;
+  width: 50;
+}
 h2 { 
   color:#181b1d;
   font-family: "Arial";
@@ -18,6 +26,17 @@ h2 {
     border-right: 300px dashed rgb(204, 191, 45);
     border-bottom: 15px dotted rgb(12, 75, 12);
     border-left: 300px dashed rgb(204, 191, 45);
+}
+a {display:block;
+  text-decoration:none;
+}
+
+img{ width: 110px;
+     height: 60px;
+     position: fixed;
+     bottom: 0;
+     left: 50%;
+     transform: translateX(-50%);
 }
 
 form {
@@ -48,15 +67,15 @@ form {
 }
 
 .high {
-  color: #c45656;
+  color: #c50101;
 }
 
 .low {
-  color:#36454d;
+  color:#154a76;
 }
 
 .winner {
-  color: #86c062;
+  color: #eedc3b;
 }
 
 .error {
